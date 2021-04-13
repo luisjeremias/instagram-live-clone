@@ -2,7 +2,7 @@
  > This is a  screen of one live on Instagram, 
 
 
-![Img](https://github.com/luisjeremias/instagram-live-clone/blob/master/capture.JPG?raw=true)
+![Img](https://github.com/luisjeremias/instagram-live-clone/blob/main/Capture.JPG?raw=true)
 
 
 ___
